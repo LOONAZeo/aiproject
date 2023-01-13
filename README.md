@@ -12,8 +12,8 @@
 * 點選Node-RED編輯頁面最右上角之按鈕後，點選匯入"**Node-RED使用者介面.json**"
 * 部署完畢後點選Node-RED編輯頁面右上方之箭頭即可進入使用者介面
 ### 服務提供系統與人臉辨識系統之程式與資料集 folder
-* face01 folder 中包含蔡英文（Tsai）的人臉資料集26張
-* face02 folder 中包含柯文哲（ko）的人臉資料集28張
-* face03 folder 中包含我（liao）的人臉資料集22張
+* **face01 folder** 中包含蔡英文（Tsai）的人臉資料集26張
+* **face02 folder** 中包含柯文哲（ko）的人臉資料集28張
+* **face03 folder** 中包含我（liao）的人臉資料集22張
 
 ### 電器服務提供系統之程式 folder
