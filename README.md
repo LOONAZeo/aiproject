@@ -23,4 +23,8 @@
 * ***liao.csv*** 為我使用電器服務偏好之初始資料集
 * ***Link (2).py*** 為人臉辨識，個人化之knn模型製作，訂閱環境資訊主題，使用者介面之案件主題，出版電器服務資訊主題之程式碼
 ### 電器服務提供系統之程式 folder
+* ***fan*** folder
+* ***infrared*** folder
+* ***light*** folder
+* ***temperature*** folder
 
