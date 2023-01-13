@@ -27,7 +27,7 @@
 * ***infrared*** folder 為燒錄至 **ESP32 紅外線發射端** 之程式碼
 * ***light*** folder 為燒錄至 **ESP32 LED燈** 之程式碼
 * ***temperature*** folder 為燒錄至 **ESP32 環境感測器** 之程式碼
-### README.txt
-* ***README.md*** 的連結網址
 ### Demo Video.pptx
 * 為本研究之***Demo Video***
+### README.txt
+* ***README.md*** 的連結網址
