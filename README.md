@@ -7,7 +7,7 @@
 * 記錄我在本研究之所學與未來展望
 ### User Interface
 * 資料夾內的內容為Node-RED執行所需之工具
-* 點選**NodeRED捷徑**可進入Node-RED伺服器
+* 點選__**NodeRED捷徑**__可進入Node-RED伺服器
 * 點選Node-RED伺服器中的網址進入Node-RED編輯頁面
 * 點選Node-RED編輯頁面最右上角之按鈕後，點選匯入**Node-RED使用者介面.json**
 * 部署完畢後點選Node-RED編輯頁面右上方之箭頭即可進入使用者介面
